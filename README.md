@@ -1,2 +1,6 @@
 <h1 align="center"> Juego del amigo secreto de alura latam </h1>
-- `Paso 1`: - `Funcionalidad 2`: descripción de la funcionalidad 2- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2- `Funcionalidad 3`: descripción de la funcionalidad 3
+<h4>Descripción del proyecto</h4>
+<p>Este proyecto permite el ingreso de nombres de personas para luego realizar un sorteo de los mismos.<p>
+## :hammer:Cómo ejecutar el proyecto?
+
+- `Paso 1`: Descargar el repositorio `Paso 2`: Abrir el archivo Index.html
